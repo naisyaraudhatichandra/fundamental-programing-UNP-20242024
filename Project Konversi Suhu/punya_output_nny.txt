@@ -1,0 +1,1000 @@
+4466.00C = 8070.80F
+3206.00C = 5802.80F
+3040.00C = 5504.00F
+Error: Format tidak valid 'y'
+772.00F = 411.11C
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'm'
+4892.00C = 8837.60F
+Error: Format tidak valid 'z'
+3643.00F = 2006.11C
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'x'
+1684.00C = 3063.20F
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'z'
+3786.00F = 2085.56C
+Error: Format tidak valid 'm'
+2887.00C = 5228.60F
+2138.00C = 3880.40F
+1536.00F = 835.56C
+1826.00C = 3318.80F
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'p'
+4335.00C = 7835.00F
+4744.00F = 2617.78C
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'x'
+2876.00C = 5208.80F
+966.00C = 1770.80F
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'y'
+971.00C = 1779.80F
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'p'
+1738.00F = 947.78C
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'y'
+2085.00F = 1140.56C
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'p'
+1797.00C = 3266.60F
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'p'
+555.00F = 290.56C
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'm'
+3139.00C = 5682.20F
+4086.00C = 7386.80F
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'z'
+4090.00C = 7394.00F
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'm'
+2866.00F = 1574.44C
+2510.00C = 4550.00F
+Error: Format tidak valid 'p'
+1794.00C = 3261.20F
+Error: Format tidak valid 'm'
+440.00F = 226.67C
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'x'
+184.00C = 363.20F
+3930.00F = 2165.56C
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'p'
+3824.00F = 2106.67C
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'm'
+12.00F = -11.11C
+47.00C = 116.60F
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'y'
+4141.00C = 7485.80F
+1909.00F = 1042.78C
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'z'
+1617.00F = 880.56C
+2371.00C = 4299.80F
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'm'
+4748.00F = 2620.00C
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'y'
+882.00F = 472.22C
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'z'
+1767.00F = 963.89C
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'p'
+4798.00C = 8668.40F
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'x'
+4458.00C = 8056.40F
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'y'
+1220.00F = 660.00C
+Error: Format tidak valid 'm'
+908.00C = 1666.40F
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'z'
+4669.00F = 2576.11C
+415.00C = 779.00F
+3319.00F = 1826.11C
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'p'
+44.00F = 6.67C
+Error: Format tidak valid 'x'
+3761.00C = 6801.80F
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'x'
+4802.00F = 2650.00C
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'x'
+3503.00C = 6337.40F
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'y'
+3136.00C = 5676.80F
+Error: Format tidak valid 'x'
+3333.00C = 6031.40F
+4694.00C = 8481.20F
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'p'
+1343.00C = 2449.40F
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'm'
+2769.00C = 5016.20F
+Error: Format tidak valid 'p'
+2371.00C = 4299.80F
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'm'
+5000.00F = 2760.00C
+491.00C = 915.80F
+4331.00F = 2388.33C
+4485.00C = 8105.00F
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'x'
+3755.00C = 6791.00F
+1877.00C = 3410.60F
+428.00F = 220.00C
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'm'
+3243.00C = 5869.40F
+3219.00C = 5826.20F
+Error: Format tidak valid 'z'
+3853.00C = 6967.40F
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'y'
+2921.00C = 5289.80F
+2878.00F = 1581.11C
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'z'
+3505.00C = 6341.00F
+1110.00C = 2030.00F
+Error: Format tidak valid 'z'
+2541.00C = 4605.80F
+2549.00C = 4620.20F
+2842.00F = 1561.11C
+Error: Format tidak valid 'm'
+756.00C = 1392.80F
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'y'
+887.00F = 475.00C
+3624.00F = 1995.56C
+4904.00C = 8859.20F
+4450.00C = 8042.00F
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'm'
+2858.00C = 5176.40F
+Error: Format tidak valid 'z'
+4608.00C = 8326.40F
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'z'
+4204.00C = 7599.20F
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'z'
+3142.00C = 5687.60F
+1364.00F = 740.00C
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'x'
+3508.00F = 1931.11C
+4884.00F = 2695.56C
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'p'
+3893.00F = 2145.00C
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'p'
+141.00C = 285.80F
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'y'
+460.00F = 237.78C
+88.00F = 31.11C
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'z'
+3453.00C = 6247.40F
+Error: Format tidak valid 'x'
+2605.00C = 4721.00F
+3240.00C = 5864.00F
+974.00C = 1785.20F
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'y'
+2752.00C = 4985.60F
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'm'
+2021.00F = 1105.00C
+1329.00C = 2424.20F
+1133.00C = 2071.40F
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'x'
+3493.00F = 1922.78C
+309.00F = 153.89C
+325.00C = 617.00F
+512.00C = 953.60F
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'z'
+1361.00F = 738.33C
+2078.00C = 3772.40F
+3552.00C = 6425.60F
+Error: Format tidak valid 'y'
+4052.00F = 2233.33C
+3807.00F = 2097.22C
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'y'
+3177.00C = 5750.60F
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'p'
+1821.00F = 993.89C
+4141.00F = 2282.78C
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'x'
+1353.00F = 733.89C
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'z'
+3060.00C = 5540.00F
+875.00C = 1607.00F
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'p'
+2494.00F = 1367.78C
+1393.00F = 756.11C
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'm'
+3647.00C = 6596.60F
+3802.00F = 2094.44C
+1992.00F = 1088.89C
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'x'
+2596.00C = 4704.80F
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'x'
+3467.00F = 1908.33C
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'z'
+2918.00C = 5284.40F
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'x'
+1909.00F = 1042.78C
+3786.00F = 2085.56C
+761.00C = 1401.80F
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'x'
+2245.00F = 1229.44C
+2116.00C = 3840.80F
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'm'
+410.00F = 210.00C
+Error: Format tidak valid 'm'
+4914.00F = 2712.22C
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'x'
+3270.00F = 1798.89C
+Error: Format tidak valid 'z'
+2266.00C = 4110.80F
+2092.00F = 1144.44C
+1756.00F = 957.78C
+2651.00F = 1455.00C
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'z'
+107.00C = 224.60F
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'z'
+3066.00F = 1685.56C
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'y'
+35.00C = 95.00F
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'p'
+3023.00F = 1661.67C
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'x'
+897.00C = 1646.60F
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'z'
+2746.00F = 1507.78C
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'y'
+3263.00C = 5905.40F
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'p'
+495.00F = 257.22C
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'x'
+1492.00C = 2717.60F
+Error: Format tidak valid 'p'
+3836.00F = 2113.33C
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'z'
+1265.00F = 685.00C
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'x'
+74.00F = 23.33C
+Error: Format tidak valid 'y'
+2017.00C = 3662.60F
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'p'
+402.00C = 755.60F
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'm'
+4327.00F = 2386.11C
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'm'
+2477.00F = 1358.33C
+2517.00F = 1380.56C
+Error: Format tidak valid 'x'
+3616.00F = 1991.11C
+Error: Format tidak valid 'x'
+4285.00C = 7745.00F
+Error: Format tidak valid 'p'
+2863.00F = 1572.78C
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'z'
+4709.00C = 8508.20F
+25.00C = 77.00F
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'y'
+1512.00F = 822.22C
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'm'
+2384.00C = 4323.20F
+4175.00F = 2301.67C
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'p'
+115.00F = 46.11C
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'x'
+2419.00F = 1326.11C
+Error: Format tidak valid 'y'
+1486.00F = 807.78C
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'x'
+2499.00F = 1370.56C
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'x'
+2450.00C = 4442.00F
+1474.00C = 2685.20F
+546.00C = 1014.80F
+2652.00C = 4805.60F
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'p'
+4003.00F = 2206.11C
+4860.00F = 2682.22C
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'p'
+32.00C = 89.60F
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'y'
+1266.00C = 2310.80F
+Error: Format tidak valid 'm'
+2543.00F = 1395.00C
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'm'
+3819.00F = 2103.89C
+Error: Format tidak valid 'z'
+4320.00F = 2382.22C
+3304.00F = 1817.78C
+1638.00C = 2980.40F
+Error: Format tidak valid 'y'
+2078.00C = 3772.40F
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'z'
+4326.00F = 2385.56C
+4211.00C = 7611.80F
+Error: Format tidak valid 'p'
+4759.00F = 2626.11C
+3443.00F = 1895.00C
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'z'
+23.00C = 73.40F
+3966.00F = 2185.56C
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'y'
+2766.00C = 5010.80F
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'x'
+1164.00F = 628.89C
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'm'
+1071.00C = 1959.80F
+Error: Format tidak valid 'm'
+273.00C = 523.40F
+4428.00F = 2442.22C
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'x'
+2264.00C = 4107.20F
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'z'
+3968.00F = 2186.67C
+1716.00F = 935.56C
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'p'
+2499.00C = 4530.20F
+Error: Format tidak valid 'x'
+4198.00F = 2314.44C
+Error: Format tidak valid 'm'
+4941.00C = 8925.80F
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'p'
+510.00F = 265.56C
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'y'
+2757.00C = 4994.60F
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'p'
+2635.00F = 1446.11C
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'x'
+3862.00C = 6983.60F
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'x'
+3590.00C = 6494.00F
+2508.00F = 1375.56C
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'y'
+1377.00C = 2510.60F
+Error: Format tidak valid 'm'
+3548.00F = 1953.33C
+1089.00F = 587.22C
+Error: Format tidak valid 'p'
+4311.00F = 2377.22C
+Error: Format tidak valid 'p'
+235.00F = 112.78C
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'x'
+3029.00C = 5484.20F
+2333.00F = 1278.33C
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'm'
+3976.00F = 2191.11C
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'z'
+1699.00C = 3090.20F
+4152.00C = 7505.60F
+Error: Format tidak valid 'p'
+1305.00F = 707.22C
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'z'
+4400.00F = 2426.67C
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'p'
+636.00C = 1176.80F
+Error: Format tidak valid 'p'
+1200.00F = 648.89C
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'p'
+1869.00C = 3396.20F
+4834.00F = 2667.78C
+Error: Format tidak valid 'm'
+1180.00C = 2156.00F
+Error: Format tidak valid 'p'
+2990.00F = 1643.33C
+Error: Format tidak valid 'z'
+218.00F = 103.33C
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'y'
+3612.00F = 1988.89C
+747.00C = 1376.60F
+4987.00C = 9008.60F
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'z'
+3970.00F = 2187.78C
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'y'
+3228.00C = 5842.40F
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'x'
+3548.00C = 6418.40F
+Error: Format tidak valid 'x'
+2195.00F = 1201.67C
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'y'
+1331.00C = 2427.80F
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'm'
+2809.00C = 5088.20F
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'x'
+4680.00F = 2582.22C
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'm'
+3410.00C = 6170.00F
+Error: Format tidak valid 'p'
+4871.00F = 2688.33C
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'm'
+165.00C = 329.00F
+Error: Format tidak valid 'y'
+3758.00F = 2070.00C
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'z'
+1238.00F = 670.00C
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'm'
+3746.00F = 2063.33C
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'y'
+1895.00F = 1035.00C
+2267.00C = 4112.60F
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'z'
+1167.00C = 2132.60F
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'y'
+3407.00F = 1875.00C
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'p'
+3693.00F = 2033.89C
+Error: Format tidak valid 'p'
+3114.00F = 1712.22C
+Error: Format tidak valid 'z'
+4122.00C = 7451.60F
+1407.00F = 763.89C
+Error: Format tidak valid 'm'
+1775.00C = 3227.00F
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'x'
+2045.00F = 1118.33C
+412.00C = 773.60F
+361.00C = 681.80F
+2659.00C = 4818.20F
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'x'
+528.00F = 275.56C
+Error: Format tidak valid 'x'
+921.00F = 493.89C
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'p'
+4684.00F = 2584.44C
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'z'
+779.00F = 415.00C
+3494.00C = 6321.20F
+3515.00F = 1935.00C
+1773.00F = 967.22C
+380.00C = 716.00F
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'x'
+1068.00C = 1954.40F
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'm'
+3682.00F = 2027.78C
+Error: Format tidak valid 'y'
+1627.00C = 2960.60F
+554.00F = 290.00C
+912.00F = 488.89C
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'z'
+4169.00F = 2298.33C
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'y'
+4186.00C = 7566.80F
+4660.00C = 8420.00F
+1678.00F = 914.44C
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'm'
+3109.00F = 1709.44C
+Error: Format tidak valid 'z'
+3215.00C = 5819.00F
+1280.00C = 2336.00F
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'y'
+3188.00C = 5770.40F
+Error: Format tidak valid 'm'
+2114.00C = 3837.20F
+4420.00C = 7988.00F
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'y'
+811.00C = 1491.80F
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'z'
+557.00C = 1034.60F
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'y'
+4411.00F = 2432.78C
+Error: Format tidak valid 'p'
+1071.00F = 577.22C
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'y'
+2394.00F = 1312.22C
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'x'
+2212.00C = 4013.60F
+Error: Format tidak valid 'x'
+3859.00C = 6978.20F
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'x'
+4529.00F = 2498.33C
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'm'
+1646.00C = 2994.80F
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'm'
+4341.00C = 7845.80F
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'm'
+3592.00C = 6497.60F
+Error: Format tidak valid 'y'
+899.00C = 1650.20F
+816.00C = 1500.80F
+Error: Format tidak valid 'm'
+3212.00C = 5813.60F
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'p'
+2079.00F = 1137.22C
+Error: Format tidak valid 'p'
+4808.00C = 8686.40F
+771.00F = 410.56C
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'y'
+4303.00F = 2372.78C
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'p'
+4276.00F = 2357.78C
+Error: Format tidak valid 'y'
+475.00C = 887.00F
+Error: Format tidak valid 'p'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'z'
+Error: Format tidak valid 'm'
+Error: Format tidak valid 'y'
+Error: Format tidak valid 'x'
+Error: Format tidak valid 'm'
